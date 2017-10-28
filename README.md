@@ -4,7 +4,7 @@
 
 ### The project involves: HTML5, CSS3, JavaScript, and JS libraries
 
-## About the Exercise:
+### About the Exercise:
 
 - Playing with JavaScript library to create and display animated 3D computer graphics
 
