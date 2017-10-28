@@ -2,7 +2,7 @@
 
 ## By Amanda Sam
 
-### The project involves: HTML5, CSS3, JavaScript, and JS libraries
+### The project involves: HTML5, CSS3, Bootstrap, JavaScript, and JS libraries
 
 ### About the Exercise:
 
@@ -10,5 +10,6 @@
 
 -------------------------------------------
 
-Please visit the website:<br/>
+Please visit the website: https://amandakitsam.github.io/exercise-three.js/
+<br/>
 (Working Stage)
