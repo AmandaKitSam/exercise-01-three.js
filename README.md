@@ -6,7 +6,7 @@
 
 ### About the Exercise:
 
-- Playing with JavaScript library to create and display animated 3D computer graphics
+- Playing with JavaScript libraries to create and display animated 3D computer graphics
 
 -------------------------------------------
 
