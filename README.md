@@ -8,6 +8,10 @@
 
 - Playing with JavaScript libraries to create and display animated 3D computer graphics
 
+- Click 'right': move forward
+
+- Click 'left': move backwards
+
 -------------------------------------------
 
 Please visit the website: https://amandakitsam.github.io/exercise-three.js/
